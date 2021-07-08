@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, my name is Noreldin Saad
+#### I am a Developer and operation manager
+I'm Noreldin from California. I’m extremely passionate about web development. I really enjoy learning languages and frameworks like React. Aside from web development, I enjoy spending my time with family, and playing & watching sports.
 
-<!--
-**Noreldin-S/Noreldin-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills:  REACT / JS / HTML / CSS / jQuery / SQL / NoSQL / Express
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a chat project called "Simulview" 
+- 🌱 I’m currently learning Angular 
+- ⚡ Fun fact: I love sushi :) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Noreldin-S)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/noreldin-saad-835930108//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/NourTarekSaad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/noreldinzz//)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/Noreldin-S&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/Noreldin-S)  
+
+![Profile views](https://gpvc.arturio.dev/https://github.com/Noreldin-S)  
