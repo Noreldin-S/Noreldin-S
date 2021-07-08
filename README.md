@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Noreldin Saad
-#### I am a Developer and operation manager
+
 I'm from California. I’m extremely passionate about web development. I really enjoy learning languages and frameworks like React. I have the ability to meet deadlines.Well organized, efficient, Self-motivated and assertive.  Aside from web development, I enjoy spending my time with family, and playing & watching sports.
 
 Skills:  REACT / JS / HTML / CSS / jQuery / SQL / NoSQL / Express
