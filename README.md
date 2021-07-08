@@ -11,4 +11,8 @@ Skills:  REACT / JS / HTML / CSS / jQuery / SQL / NoSQL / Express
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Noreldin-S)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/noreldin-saad-835930108//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/NourTarekSaad/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/noreldinzz//)  
   
-<img align="left" alt="Noreldin-S's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Noreldin-S&show_icons=true&hide_border=true" />
+[![Noreldin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noreldin-S&show_icons=true&theme=radical)
+)](https://github.com/Noreldin-S/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noreldin-S&layout=compact)](https://github.com/Noreldin-S/github-readme-stats)
+
