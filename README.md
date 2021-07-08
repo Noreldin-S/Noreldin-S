@@ -15,6 +15,6 @@ Skills:  REACT / JS / HTML / CSS / jQuery / SQL / NoSQL / Express
   <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Noreldin-S&show_icons=true&hide_border=true" />
+  <img align="left" alt="Noreldin-S's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Noreldin-S&show_icons=true&hide_border=true" />
 
 </details>
