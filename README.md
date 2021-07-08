@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Noreldin Saad
 #### I am a Developer and operation manager
-I'm Noreldin from California. I’m extremely passionate about web development. I really enjoy learning languages and frameworks like React. Aside from web development, I enjoy spending my time with family, and playing & watching sports.
+I'm from California. I’m extremely passionate about web development. I really enjoy learning languages and frameworks like React. Aside from web development, I enjoy spending my time with family, and playing & watching sports.
 
 Skills:  REACT / JS / HTML / CSS / jQuery / SQL / NoSQL / Express
 
@@ -15,6 +15,6 @@ Skills:  REACT / JS / HTML / CSS / jQuery / SQL / NoSQL / Express
   <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Noreldin-S&show_icons=true&hide_border=true" />
 
 </details>
