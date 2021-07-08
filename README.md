@@ -4,7 +4,7 @@ I'm from California. I’m extremely passionate about web development. I really 
 
 Skills:  REACT / JS / HTML / CSS / jQuery / SQL / NoSQL / Express
 
-- 🔭 I’m currently working on project called "Simulview" 
+- 🔭 I’m currently working on [Simulview](https://github.com/Noreldin-S/Simulview)
 - 🌱 I’m currently learning Angular 
 - ⚡ Fun fact: I love sushi :) 
 
