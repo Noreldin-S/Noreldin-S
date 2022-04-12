@@ -1,6 +1,5 @@
 ### Hi there 👋, my name is Noreldin Saad
 
-I'm from California. I’m extremely passionate about web development. I really enjoy learning languages and frameworks like React. I have the ability to meet deadlines. Well organized and efficient, Self-motivated, assertive and persistent problem-solver. Earned a Certificate in Full-Stack Web Development from the University of CA-Irvine with the goal of becoming a skilled Web Developer. Aside from web development, I enjoy spending my time with family, and playing & watching sports.
 
 ## Languages and Tools
 <p align="center">
