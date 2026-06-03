@@ -49,9 +49,5 @@ Detection engineering, cloud security architecture, and adversary emulation — 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Noreldin-S&show_icons=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="Noreldin's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Noreldin-S&style=flat-square&color=22D3EE&label=Profile+views" alt="Profile views" />
+  <sub>Open to security engineering opportunities &nbsp;·&nbsp; Best reached on <a href="https://www.linkedin.com/in/noreldin-saad-835930108/">LinkedIn</a></sub>
 </p>
